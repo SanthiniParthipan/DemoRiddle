@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Riddle</string>
+    <string name="reveal2">reveal</string>
+    <string name="reveal">reveal</string>
+</resources>
